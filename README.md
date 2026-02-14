@@ -4,7 +4,7 @@ Este proyecto reúne diferentes actividades desarrolladas en JavaScript con el o
 
 ##  Descripción
 
-El trabajo contiene ejercicios prácticos enfocados en el manejo de datos, programación asíncrona y nuevas características de JavaScript (ES6+).  
+El trabajo contiene ejercicios prácticos enfocados en el manejo de datos, programación asíncrona y nuevas características de JavaScript.  
 
 Cada actividad está organizada en módulos independientes para facilitar la comprensión y práctica de los temas vistos en clase.
 
